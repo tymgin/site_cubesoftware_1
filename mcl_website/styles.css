@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #1a1a1a;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+h1{
+    font-size: 4rem;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    
+}
+h2{
+    font-size:2rem;
+    color: white;
+    font-weight: 600;
+}
+p{
+    font-size: 1.5rem;
+    text-align: center;
+    color: white;
+}
+section
+{
+    padding: 2em 0;
+    display: flex;
+    text-align: center;
+    line-height: 1.7em;
+    
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1a1a1a;
+    display: flex;
+    text-align: center;
+    padding-left: 440px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  .section{
+    text-align: center;
+  }
+  .solid{
+    border: 1px solid;
+  }
+  #ad, #adrem{
+    text-align: center;
+    padding-left: 130px;
+    padding-right: 150px;
+    line-height: 1.5;
+  }
+  #contactati{
+text-align: center;
+padding-left: 130px;
+    padding-right: 150px;
+    line-height: 1.5;
+    color: white;
+  }
